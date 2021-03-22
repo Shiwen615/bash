@@ -1,0 +1,2 @@
+xxd -p hello.sh
+xxd -p -r hello.hex
